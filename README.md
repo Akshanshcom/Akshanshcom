@@ -42,8 +42,8 @@ I'm **Akshansh Kashyap**, a **SOFTWARE DEVELOPER**. I use my knowledge of softwa
 * **Winner in Design Thinking**<br/> Recognized for creativity and innovative solutions in design challenges.
 * **IILM University Hackathon**<br/> Developed a real-time GPS monitoring system for ambulances to optimize emergency response.
 * **One-Day Ideation Workshop**<br/> Participated in the 117th Ideation Workshop under the “Entrepreneurship Promotion Programme” — IETE Noida Centre, in association with IILM University.
-* **Training Program at iHUB DivyaSampark @ IIT Roorkee** *(09 December 2022)* <br/> Blockchain Technology & Data Structures and Algorithms.
-* **First Position in Poster Presentation** *(30 November 2022)* <br/> Excelled in effective communication and visual presentation of ideas.
+* **Training Program at iHUB DivyaSampark @ IIT Roorkee**<br/> Blockchain Technology & Data Structures and Algorithms.
+* **First Position in Poster Presentation**<br/> Excelled in effective communication and visual presentation of ideas.
 
 ---
 
