@@ -34,6 +34,16 @@ I'm **Akshansh Kashyap**, a **SOFTWARE DEVELOPER**. I use my knowledge of softwa
   </tr>
 </table>
 
+<br/>
+
+* **Design Sprint Competition — Winner** *(21 April 2025)* <br/> Recognized as the Winner in the competition held at IILM University, organized by the IEEE Student Branch.
+* **Dark Buster Hackathon — Round 2** *(24 January 2024)* <br/> Engineered a robust system to detect and mitigate malicious URLs, strengthening cybersecurity defenses.
+* **First Position in Code Quiz** *(15 September 2023)* <br/> Showcased exceptional coding proficiency and effective problem-solving skills.
+* **Winner in Design Thinking** *(3 July 2023)* <br/> Recognized for creativity and innovative solutions in design challenges.
+* **IILM University Hackathon** *(28–29 April 2023)* <br/> Developed a real-time GPS monitoring system for ambulances to optimize emergency response.
+* **One-Day Ideation Workshop** *(11 January 2023)* <br/> Participated in the 117th Ideation Workshop under the “Entrepreneurship Promotion Programme” — IETE Noida Centre, in association with IILM University.
+* **Training Program at iHUB DivyaSampark @ IIT Roorkee** *(09 December 2022)* <br/> Blockchain Technology & Data Structures and Algorithms.
+* **First Position in Poster Presentation** *(30 November 2022)* <br/> Excelled in effective communication and visual presentation of ideas.
 
 ---
 
