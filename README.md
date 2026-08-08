@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/akshansh-kashyap"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/akshansh-kashyap-938577263/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:akshanshadp@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://portfolio-app-eight-lovat.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Website-2ecc71?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website"/></a>
 </p>
@@ -20,11 +20,7 @@ I'm **Akshansh Kashyap**, a **SOFTWARE DEVELOPER**. I use my knowledge of softwa
 
 ## 🏆 Achievements & Certifications
 
-<div align="center">
-  <a href="https://www.credly.com/badges/d7621946-fda7-4e28-85df-1a86d58891ab/public_url">
-    <img src="https://img.shields.io/badge/Credly-Verified_Badge-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge"/>
-  </a>
-</div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d7621946-fda7-4e28-85df-1a86d58891ab" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ---
 
