@@ -21,8 +21,9 @@ I'm **Akshansh Kashyap**, a **SOFTWARE DEVELOPER**. I use my knowledge of softwa
 ## 🏆 Achievements & Certifications
 
 <div align="center">
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d7621946-fda7-4e28-85df-1a86d58891ab" data-share-badge-host="https://www.credly.com"></div>
-  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <a href="https://www.credly.com/badges/d7621946-fda7-4e28-85df-1a86d58891ab/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-View_Credential-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge"/>
+  </a>
 </div>
 
 ---
