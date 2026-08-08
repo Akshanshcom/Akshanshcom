@@ -19,12 +19,21 @@ I'm **Akshansh Kashyap**, a **SOFTWARE DEVELOPER**. I use my knowledge of softwa
 ---
 
 ## 🏆 Achievements & Certifications
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="20%">
+      <a href="https://www.credly.com/badges/d7621946-fda7-4e28-85df-1a86d58891ab/public_url">
+        <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Badge" width="120" />
+      </a>
+    </td>
+    <td width="80%">
+      <strong><a href="https://www.credly.com/badges/d7621946-fda7-4e28-85df-1a86d58891ab/public_url">IBM Certification</a></strong><br/>
+      <em>Issued by IBM via Credly</em><br/>
+      <strong>Skills:</strong> Artificial Intelligence, Machine Learning, Python, Data Science, Deep Learning, Software Development<br/>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <a href="https://www.credly.com/badges/d7621946-fda7-4e28-85df-1a86d58891ab/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-View_Credential-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge"/>
-  </a>
-</div>
 
 ---
 
@@ -32,28 +41,19 @@ I'm **Akshansh Kashyap**, a **SOFTWARE DEVELOPER**. I use my knowledge of softwa
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,react,nextjs,redux,tailwind,threejs,nodejs,express,django,postgres,supabase,docker,vercel,git,github,aws&perline=10" />
+    <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,react,nextjs,redux,tailwind,threejs,nodejs,express,django,postgres,supabase,docker,vercel,git,github&perline=10" />
   </a>
 </div>
 
 <br/>
 
+* **AI & Machine Learning:** Machine Learning, Neural Networks, NLP, Pattern Recognition, Predictive Analytics
 * **Languages:** TypeScript, JavaScript (ES2023), Python, SQL, HTML5, CSS3
 * **Frontend:** React, Next.js (App Router, RSC), Redux Toolkit, Tailwind CSS, GSAP / ScrollTrigger, Three.js, React Three Fiber, WebGL
 * **Backend:** Node.js, Express, Django, REST API design, JWT authentication, Zod schema validation
 * **Data & Infra:** PostgreSQL (Supabase), Upstash Redis, Docker & Docker Compose, Vercel, Git / GitHub
-* **Payments & Services:** Stripe PaymentIntents, Nodemailer, SendGrid, AWS S3 / Supabase Storage
-* **Engineering Practice:** Browser rendering & compositor profiling, secure API design, threat modelling, Machine Learning fundamentals
+* **Payments & Services:** Stripe PaymentIntents, Nodemailer, SendGrid, Supabase Storage
+* **Engineering Practice:** Browser rendering & compositor profiling, secure API design, threat modelling
 
 ---
 
-## 📊 Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=2ecc71&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&background=0D1117&ring=2ecc71&fire=2ecc71&currStreakLabel=2ecc71" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=2ecc71&text_color=ffffff" width="48%" />
-</div>
