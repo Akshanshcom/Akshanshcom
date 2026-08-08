@@ -21,12 +21,12 @@ I'm **Akshansh Kashyap**, a **SOFTWARE DEVELOPER**. I use my knowledge of softwa
 ## 🏆 Achievements & Certifications
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="20%">
+    <td align="center" width="25%">
       <a href="https://www.credly.com/badges/d7621946-fda7-4e28-85df-1a86d58891ab/public_url">
-        <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Badge" width="120" />
+        <img src="https://images.credly.com/size/220x220/images/0c51c4f1-ef0b-4c3a-b55e-5a85f82ac882/iCAT_Graduate_Artificial_Intel_Mach_Learn.png" alt="IBM Certification Badge" width="130" />
       </a>
     </td>
-    <td width="80%">
+    <td width="75%">
       <strong><a href="https://www.credly.com/badges/d7621946-fda7-4e28-85df-1a86d58891ab/public_url">IBM Certification</a></strong><br/>
       <em>Issued by IBM via Credly</em><br/>
       <strong>Skills:</strong> Artificial Intelligence, Machine Learning, Python, Data Science, Deep Learning, Software Development<br/>
